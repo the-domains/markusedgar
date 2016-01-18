@@ -1,0 +1,28 @@
+name: markusedgar
+favicon: null
+layout_spectrum: 0.29512393521144986
+typography_spectrum: 0.8455140306614339
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9907730184495449
+  lightness: 0.547315965173766
+  saturation: 0.130199613282457
+  rhythmicContrast: 0.07772162719629705
+purpose: []
